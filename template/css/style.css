@@ -1,0 +1,44 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: gold;
+    color: #2f2f2f;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+#header {
+    clear: both;
+}
+
+#topMenu {
+    clear: both;
+}
+
+#topMenu ul {
+    display: flex;
+    flex-flow: row nowrap;
+    list-style: none;
+    justify-content: left;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#topMenu ul li a {
+    display: block;
+    padding: 10px;
+}
+
+#content {
+    padding: 10px;
+    background-color: #FFF;
+    padding-bottom: 50px;
+}
+
+#footer {
+    padding: 10px;
+}
