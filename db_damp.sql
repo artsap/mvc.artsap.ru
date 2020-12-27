@@ -2,7 +2,6 @@
 -- version 4.9.5
 -- https://www.phpmyadmin.net/
 --
--- Хост: localhost
 -- Время создания: Дек 27 2020 г., 21:18
 -- Версия сервера: 5.6.39-83.1
 -- Версия PHP: 5.6.40
@@ -15,10 +14,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
-
---
--- База данных: `artsap_mvc`
---
 
 -- --------------------------------------------------------
 
